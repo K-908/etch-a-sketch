@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(134, 134, 134);
+}
+h1{
+    font-family: 'Comic Neue', cursive;
+    font-size:50px;
+}
+
+#title{
+    margin:auto;
+    width:50%;
+    text-align:center;
+    color:white;
+}
